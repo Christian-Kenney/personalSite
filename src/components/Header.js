@@ -43,7 +43,7 @@ class Header extends Component {
           <div className="col-md-12">
             <div>
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false">
-                <img src="images/logo.png"></img>
+                <img src="images/newlogo.png"></img>
               </span>
               <br/>
               <h1 className="mb-0">

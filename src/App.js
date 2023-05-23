@@ -11,6 +11,7 @@ import Education from "./components/Education";
 
 class App extends Component {
 
+  
   constructor(props) {
     super();
     this.state = {
