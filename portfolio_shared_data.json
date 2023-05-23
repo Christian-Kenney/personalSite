@@ -1,0 +1,97 @@
+{
+    "basic_info": {
+      "name": "Christian Kenney",
+      "titles": [ "Full-Stack Engineer",  "Freelance Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "ppic33.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "fa6-brands:java",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "teenyicons:react-outline",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "ri:html5-fill",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "el:css",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "teenyicons:angular-solid",
+          "level": "80"
+        },
+        {
+          "name": "Spring",
+          "class": "simple-icons:spring",
+          "level": "60"
+        },
+        {
+          "name": "JavaScript",
+          "class": "ri:javascript-fill",
+          "level": "70"
+        },
+        {
+          "name": "MySql",
+          "class": "simple-icons:mysql",
+          "level": "60"
+        },
+        {
+          "name": "Shopify",
+          "class": "ic:baseline-shopify",
+          "level": "60"
+        },
+        {
+          "name": "Big Data",
+          "class": "icon-park-solid:data",
+          "level": "40"
+        }     
+      ]
+    },
+    "education": {
+      "schools": [
+        {
+          "image": "images/maryville2.jpg",
+          "name": "Maryville University",
+          "degree": "MS in Software Development",
+          "date": "2024",
+          "gpa": "3.9"
+        },
+        {
+          "image": "images/codeup.png",
+          "name": "Codeup",
+          "degree": "Full Stack Software Development",
+          "date": "2018"
+        },
+        {
+          "image": "images/utsa.png",
+          "name": "The University of Texas at San Antonio",
+          "degree": "BA in Multidisciplinary Studies",
+          "date": "2017"
+        }
+      ]
+    }
+    
+  }
