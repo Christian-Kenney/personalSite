@@ -1,0 +1,124 @@
+{
+    "basic_info": {
+      "description_header": "Hello! I'm Christian Kenney, a passionate software developer with a strong foundation in Java, Angular, React, and building applications that handle large amounts of data. With over 4 years of professional experience, I have had the opportunity to work on diverse projects, including government contracts, which has allowed me to expand my knowledge in the field of software development.",
+      "description": "I hold a bachelor's degree from the University of Texas at San Antonio and am currently enrolled in a master's program for software development at Maryville University. Below, you will find detailed information about my previous experience, academic journey, skills, and latest projects. Below my photo, you will find links to my LinkedIn profile, GitHub, and my resume. Please feel free to reach out to me with any opportunities, freelance inquiries, or if you have any comments or questions!",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "Education": "Education"
+
+      }
+    },
+    "projects": [
+      {
+        "title": "Meal Planning App",
+        "startDate": "2023",
+        "description": "I created this meal planning app using Ionic for my mobile development app. With a combination of Angular on the front end that is dynamic to fit any device.",
+        "images": [
+          "images/Groceriesapp.PNG"
+        ],
+        "url": "https://github.com/Christian-Kenney/Final-App-Adv/tree/main/Groceries",
+        "technologies": [
+          {
+            "class": "teenyicons:angular-solid",
+            "name": "https://github.com/Christian-Kenney/Final-App-Adv/tree/main/Groceries"
+          },
+          {
+            "class": "logos:ionic",
+            "name": "https://github.com/Christian-Kenney/Final-App-Adv/tree/main/Groceries"
+          },
+          {
+            "class": "uiw:github",
+            "name": "https://github.com/Christian-Kenney/Final-App-Adv/tree/main/Groceries"
+          }
+        ]
+      },
+      {
+        "title": "Hodgepodgees",
+        "startDate": "2021",
+        "description": "Floral Bouquet website designed for a client using Squarespace.",
+        "images": [
+          "images/Hodgepodgees.PNG"
+        ],
+        "url": "https://hodgepodgees.com",
+        "technologies": [
+          {
+            "class": "logos:squarespace",
+            "name": "https://hodgepodgees.com"
+          }
+        ]
+      },
+      {
+        "title": "Pizza Palace App",
+        "startDate": "2022",
+        "description": "I created an app for the final project of my object-oriented programming course during my master's program. Using Python, I developed an app that manages multiple user portfolios related to a business. Customers can submit orders and view their order history. Employees can clock in, check for pending delivery or preparation orders. Lastly, the manager has the ability to create schedules, process refunds, view daily sales, and manage their own schedule. The app implements design patterns such as the builder, factory, and singleton patterns.",
+        "images": [
+          "images/pizzadiagram.png"
+        ],
+        "url": "https://github.com/Christian-Kenney/OOP/tree/main/final",
+        "technologies": [
+          {
+            "class": "teenyicons:angular-solid",
+            "name": "https://github.com/Christian-Kenney/OOP/tree/main/final"
+          },
+          {
+            "class": "teenyicons:python-outline",
+            "name": "https://github.com/Christian-Kenney/OOP/tree/main/final"
+          },
+          {
+            "class": "uiw:github",
+            "name": "https://github.com/Christian-Kenney/OOP/tree/main/final"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "USAA",
+        "title": "Software Developer II",
+        "years": "October 2019 - June 2023",
+        "mainTech": [
+          "Java",
+          "React"
+        ],
+        "technologies": [
+          "Spring",
+          "Kafka",
+          "Big Data",
+          "Tech Lead",
+          "MySQL"
+        ]
+      },
+      {
+        "company": "Innominate Software",
+        "title": "CEO",
+        "years": "October 2018 - Current",
+        "mainTech": [
+          "Angular",
+          "Java",
+          "Shopify",
+          "Squarespace"
+        ],
+        "technologies": [
+          "MySQL",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "Appddiction Studio",
+        "title": "Software Developer",
+        "years": "March 2019 - October 2019",
+        "mainTech": [
+          "Angular",
+          "Java"
+        ],
+        "technologies": [
+          "MySQL",
+          "Government Contracts"
+        ]
+      }
+    ]
+    
+  }
