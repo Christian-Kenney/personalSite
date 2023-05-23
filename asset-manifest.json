@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/personalSite/static/css/main.7f5e870c.css",
-    "main.js": "/personalSite/static/js/main.85eeffbd.js",
-    "index.html": "/personalSite/index.html",
-    "main.7f5e870c.css.map": "/personalSite/static/css/main.7f5e870c.css.map",
-    "main.85eeffbd.js.map": "/personalSite/static/js/main.85eeffbd.js.map"
+    "main.css": "/christiankenney.com/static/css/main.7f5e870c.css",
+    "main.js": "/christiankenney.com/static/js/main.879b9f68.js",
+    "index.html": "/christiankenney.com/index.html",
+    "main.7f5e870c.css.map": "/christiankenney.com/static/css/main.7f5e870c.css.map",
+    "main.879b9f68.js.map": "/christiankenney.com/static/js/main.879b9f68.js.map"
   },
   "entrypoints": [
     "static/css/main.7f5e870c.css",
-    "static/js/main.85eeffbd.js"
+    "static/js/main.879b9f68.js"
   ]
 }
