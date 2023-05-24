@@ -17,7 +17,7 @@ class App extends Component {
   
   
   constructor(props) {
-    const TRACKING_ID = "G-0DYXP6HQFL"; // YOUR_OWN_TRACKING_ID
+    const TRACKING_ID = "G-NX9CXECXFL"; // YOUR_OWN_TRACKING_ID
     ReactGA.initialize(TRACKING_ID);
     super();
     this.state = {
