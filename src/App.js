@@ -8,11 +8,17 @@ import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Education from "./components/Education";
+import ReactGA from 'react-ga';
+
+
 
 class App extends Component {
 
   
+  
   constructor(props) {
+    const TRACKING_ID = "G-0DYXP6HQFL"; // YOUR_OWN_TRACKING_ID
+    ReactGA.initialize(TRACKING_ID);
     super();
     this.state = {
       foo: "bar",

@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Typical from "react-typical";
 import Switch from "react-switch";
 import { Icon } from "@iconify/react";
+import ReactGA from 'react-ga';
 
 
 class Header extends Component {
@@ -13,6 +14,7 @@ class Header extends Component {
     this.onThemeSwitchChange = this.onThemeSwitchChange.bind(this);
   }
 
+  
   onThemeSwitchChange(checked) {
     this.setState({ checked });
     this.setTheme();
@@ -27,6 +29,16 @@ class Header extends Component {
   }
 
   render() {
+    const pageViewsTracking = (props) => {
+      const pathname = props.match.path;
+
+      let pageView;
+      if (pathname === "*") pageView = '/not-found';
+      else pageView = pathname;
+
+      ReactGA.pageview(pageView);
+    }
+
     if (this.props.sharedData) { 
       var name = this.props.sharedData.name;
       var email = "christianekenney@gmail.com";
