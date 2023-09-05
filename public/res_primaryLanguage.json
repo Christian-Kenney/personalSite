@@ -76,6 +76,21 @@
     ],
     "experience": [
       {
+        "company": "Apple",
+        "title": "Software Engineer",
+        "years": "August 2023 - CURRENT",
+        "mainTech": [
+          "Java",
+          "React"
+        ],
+        "technologies": [
+          "Spring",
+          "Kafka",
+          "Tech Lead",
+          "MySQL"
+        ]
+      },
+      {
         "company": "USAA",
         "title": "Software Developer II",
         "years": "October 2019 - June 2023",

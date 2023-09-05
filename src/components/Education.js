@@ -44,7 +44,10 @@ class Education extends Component {
                     alt="EducationImage"
                     height={150}
                     width={100}
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
+                    style={{marginBottom: 0, paddingBottom: 20, position: 'relative'}
+                    }
+                    padding={10}
+                    paddingBottom={20}
                   />
                   <span className="project-date">{Education.date}</span>
                   <br />

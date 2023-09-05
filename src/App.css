@@ -108,6 +108,8 @@
  .foto img {
 	 display: block;
 	 width: 100%;
+	 padding: 10px;
+	 padding-bottom: 20px;
 }
  .foto div {
 	 background: #fff;
