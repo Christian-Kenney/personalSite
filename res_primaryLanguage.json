@@ -51,34 +51,46 @@
         ]
       },
       {
-        "title": "Pizza Palace App",
-        "startDate": "2022",
-        "description": "I created an app for the final project of my object-oriented programming course during my master's program. Using Python, I developed an app that manages multiple user portfolios related to a business. Customers can submit orders and view their order history. Employees can clock in, check for pending delivery or preparation orders. Lastly, the manager has the ability to create schedules, process refunds, view daily sales, and manage their own schedule. The app implements design patterns such as the builder, factory, and singleton patterns.",
+        "title": "A24 Film Challenge",
+        "startDate": "2023",
+        "description": "I created an app to randomly generate a movie challenge based on certain criteria. All films are related to A24",
         "images": [
-          "images/pizzadiagram.png"
+          "images/A24.png"
         ],
-        "url": "https://github.com/Christian-Kenney/OOP/tree/main/final",
+        "url": "https://24a24.vercel.app/",
         "technologies": [
           {
             "class": "teenyicons:angular-solid",
-            "name": "https://github.com/Christian-Kenney/OOP/tree/main/final"
+            "name": "https://24a24.vercel.app/"
           },
           {
             "class": "teenyicons:python-outline",
-            "name": "https://github.com/Christian-Kenney/OOP/tree/main/final"
+            "name": "https://24a24.vercel.app/"
           },
           {
             "class": "uiw:github",
-            "name": "https://github.com/Christian-Kenney/OOP/tree/main/final"
+            "name": "https://24a24.vercel.app/"
           }
         ]
       }
     ],
     "experience": [
       {
+        "company": "Tafolla Middle School",
+        "title": "Technology Instructor/Program Director",
+        "years": "November 2023, Current",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Program Building",
+          "Curriculum Developing"
+        ]
+      },
+      {
         "company": "Apple",
         "title": "Software Engineer",
-        "years": "August 2023 - CURRENT",
+        "years": "August 2023 - November 2023",
         "mainTech": [
           "Java",
           "React"

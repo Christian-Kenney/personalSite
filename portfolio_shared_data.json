@@ -64,6 +64,11 @@
           "level": "60"
         },
         {
+          "name": "Squarespace",
+          "class": "jam:squarespace",
+          "level": "60"
+        },
+        {
           "name": "Big Data",
           "class": "icon-park-solid:data",
           "level": "40"
