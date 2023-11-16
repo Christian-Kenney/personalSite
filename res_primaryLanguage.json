@@ -55,21 +55,17 @@
         "startDate": "2023",
         "description": "I created an app to randomly generate a movie challenge based on certain criteria. All films are related to A24",
         "images": [
-          "images/A24.png"
+          "images/A24.PNG"
         ],
         "url": "https://24a24.vercel.app/",
         "technologies": [
           {
-            "class": "teenyicons:angular-solid",
-            "name": "https://24a24.vercel.app/"
-          },
-          {
-            "class": "teenyicons:python-outline",
+            "class": "logos:react",
             "name": "https://24a24.vercel.app/"
           },
           {
             "class": "uiw:github",
-            "name": "https://24a24.vercel.app/"
+            "name": "https://github.com/Christian-Kenney/personalSite"
           }
         ]
       }
